@@ -1,0 +1,20 @@
+.card-img-top {
+  width: 300px;
+  object-fit: contain;
+}
+
+.i {
+  width: 30%;
+}
+/* .navbar-brand{
+  color:blue;
+} */
+.navbar .nav-link {
+  color: #3498db; /* Change this to your desired link color */
+  transition: color 0.3s; /* Smooth transition for hover effect */
+  font-size: 1.2em;
+}
+
+.navbar .nav-link:hover {
+  color: #2ecc71; /* Change color on hover for emphasis */
+}
